@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=cloud-devops-enthusiast&color=brightgreen)
+
 <!--
 **cloud-devops-enthusiast/cloud-devops-enthusiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
