@@ -4,6 +4,10 @@
 
 <p align="left"> <a href="https://twitter.com/cloud_zealot" target="blank"><img src="https://img.shields.io/twitter/follow/cloud_zealot?logo=twitter&style=for-the-badge" alt="cloud_zealot" /></a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cloud-devops-enthusiast&show_icons=true&locale=en" alt="cloud-devops-enthusiast" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cloud-devops-enthusiast&" alt="cloud-devops-enthusiast" /></p>
+
 <!--
 **cloud-devops-enthusiast/cloud-devops-enthusiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
