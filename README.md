@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=cloud-devops-enthusiast&color=brightgreen)
 
+<p align="left"> <a href="https://twitter.com/cloud_zealot" target="blank"><img src="https://img.shields.io/twitter/follow/cloud_zealot?logo=twitter&style=for-the-badge" alt="cloud_zealot" /></a> </p>
+
 <!--
 **cloud-devops-enthusiast/cloud-devops-enthusiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
