@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/cloud_zealot" target="blank"><img src="https://img.shields.io/twitter/follow/cloud_zealot?logo=twitter&style=for-the-badge" alt="cloud_zealot" /></a> </p>
 
-- 🌱 I’m currently learning **Microsoft Azure, Google Cloud, DevOps and various tech stacks.**
+- 🌱 I’m currently learning **Microsoft Azure, Google Cloud, DevOps and various technologies.**
 
 - 👯 I’m looking to collaborate on **Cloud and DevOps related projects.**
 
