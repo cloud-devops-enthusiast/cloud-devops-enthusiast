@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **Gmail: abhinav41999@gmail.com and on telegram: cloud_enthusiast**
 
+- 🏁 My passion can be explained by the efforts i make to keep my journey going on...
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
