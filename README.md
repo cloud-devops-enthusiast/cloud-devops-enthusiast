@@ -28,6 +28,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cloud-devops-enthusiast&" alt="cloud-devops-enthusiast" /></p>
 
+[![wakatime](https://wakatime.com/badge/user/fb51e98c-3adf-4260-a9c6-172a980deda7.svg)](https://wakatime.com/@fb51e98c-3adf-4260-a9c6-172a980deda7)
+
 <!--
 **cloud-devops-enthusiast/cloud-devops-enthusiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
