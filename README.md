@@ -4,6 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=cloud-devops-enthusiast&color=brightgreen)
 
+[![wakatime](https://wakatime.com/badge/user/fb51e98c-3adf-4260-a9c6-172a980deda7.svg)](https://wakatime.com/@fb51e98c-3adf-4260-a9c6-172a980deda7)
+
 <p align="left"> <a href="https://twitter.com/cloud_zealot" target="blank"><img src="https://img.shields.io/twitter/follow/cloud_zealot?logo=twitter&style=for-the-badge" alt="cloud_zealot" /></a> </p>
 
 - 🌱 I’m currently learning **Microsoft Azure, Google Cloud, DevOps and various technologies.**
@@ -27,8 +29,6 @@
 [![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud-devops-enthusiast&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cloud-devops-enthusiast&" alt="cloud-devops-enthusiast" /></p>
-
-[![wakatime](https://wakatime.com/badge/user/fb51e98c-3adf-4260-a9c6-172a980deda7.svg)](https://wakatime.com/@fb51e98c-3adf-4260-a9c6-172a980deda7)
 
 <!--
 **cloud-devops-enthusiast/cloud-devops-enthusiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
