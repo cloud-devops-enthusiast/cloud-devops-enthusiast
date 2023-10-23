@@ -30,6 +30,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cloud-devops-enthusiast&" alt="cloud-devops-enthusiast" /></p>
 
+<h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=cloud-devops-enthusiast&theme=react-dark"/>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
+
 <!--
 **cloud-devops-enthusiast/cloud-devops-enthusiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
